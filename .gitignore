@@ -1,0 +1,10 @@
+.vs/
+*.DotSettings
+**/bin/
+**/obj/
+*.mdf
+*.ldf
+*.db
+packages/
+*.suo
+*.user
